@@ -1,3 +1,4 @@
 Hello adding text file
 Checking for config
 Removing local config
+Checking the stash conflicts
