@@ -1,1 +1,3 @@
 Hello adding text file
+Checking for config
+Removing local config
